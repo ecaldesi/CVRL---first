@@ -2,7 +2,6 @@ import time
 from flask import abort, Blueprint, current_app, send_file, render_template, url_for
 from flask import make_response, redirect, request
 
-from web.cache import cache
 import web.connector as connector
 
 import uuid
