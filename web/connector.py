@@ -26,13 +26,13 @@ def get_trial(sid):
         # trial data
         'idTrials'              : 1,
         'ProbeID'               : 1,
-        'ProbePath'             : 'http://www.saintsrescue.ca/new_site//wp-content/gallery/barn_animals_sponsorship/Brad-Pitt.jpg',
+        'ProbePath'             : 'https://get.pxhere.com/photo/landscape-nature-forest-grass-fence-sky-field-farm-lawn-meadow-house-hill-flower-building-barn-country-rural-green-red-crop-pasture-corn-agriculture-trees-outdoors-woods-hdr-clouds-fields-estate-wisconsin-rural-area-1291613.jpg',
         'Gallery1ID'            : 1,
-        'Gallery1Path'          : 'http://www.saintsrescue.ca/new_site//wp-content/gallery/barn_animals_sponsorship/Brad-Pitt.jpg',
+        'Gallery1Path'          : 'https://get.pxhere.com/photo/landscape-nature-forest-grass-fence-sky-field-farm-lawn-meadow-house-hill-flower-building-barn-country-rural-green-red-crop-pasture-corn-agriculture-trees-outdoors-woods-hdr-clouds-fields-estate-wisconsin-rural-area-1291613.jpg',
         'Gallery2ID'            : 2,
         'Gallery2Path'          : 'https://images-na.ssl-images-amazon.com/images/I/91w1cLKbY-L._SX355_.jpg',
         'Gallery3ID'            : 3,
-        'Gallery3Path'          : 'http://whitefencefarm-il.com/img/BarnAnimals_2.jpg'
+        'Gallery3Path'          : 'https://media.treehugger.com/assets/images/2018/02/three-horses.jpg.600x315_q90_crop-smart.jpg'
     }
 
     obj2 = {
